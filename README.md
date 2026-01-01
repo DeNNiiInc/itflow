@@ -55,7 +55,7 @@
 ### Self Hosting
 - The best installation method is to use the [install script](https://docs.itflow.org/installation_script) on Ubuntu/Debian. A video walk through is available [here](https://www.youtube.com/watch?v=kKz9NOU_1XE).
 ```
-  wget -O itflow_install.sh https://github.com/DeNNiiInc/itflow-install-script/raw/main/itflow_install.sh
+  wget -O itflow_install.sh https://github.com/DeNNiiInc/itflow/raw/master/itflow_install.sh
   bash itflow_install.sh
 ```
 - Other manual installation methods are available in the [docs](https://docs.itflow.org/installation).
