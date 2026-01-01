@@ -9,7 +9,7 @@ $secrets = [];
 // SSH SERVER
 $secrets['ssh_username'] = 'root';
 $secrets['ssh_password'] = 'CHANGE_ME';
-$secrets['ssh_host'] = '192.168.1.0.0.1';
+$secrets['ssh_host'] = '192.168.101.100';
 $secrets['ssh_port'] = '22';
 
 // Database Credentials (User Provided)
