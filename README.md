@@ -60,6 +60,12 @@
 ```
 - Other manual installation methods are available in the [docs](https://docs.itflow.org/installation).
 
+### Configuration
+ITFlow uses `secrets.php` to store sensitive credentials and configuration options. 
+1. Copy `secrets.sample.php` to `secrets.php`
+2. Update `secrets.php` with your actual credentials (database, mail, etc).
+3. `secrets.php` is ignored by git to prevent accidental commitment of sensitive data.
+
 ### Managed Hosting
 - If you'd prefer, we can [host ITFlow for you](https://services.itflow.org/hosting.php).
 
